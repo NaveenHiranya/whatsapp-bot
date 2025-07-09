@@ -1,0 +1,7 @@
+create Folder start cmd
+
+
+
+npm install @google/generative-ai dotenv
+npm install
+npm start
